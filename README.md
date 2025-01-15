@@ -13,7 +13,7 @@ Este projeto envolve a validação estática e dinâmica do susbsistema de freio
 * <ins>`Pistão da Pinça:`</ins> Distribuição de Carga, Soluções Termodinâmicas, Soluções para vedação, Estudo de Casos, Análise de movimentação e Cases de estudo, Delimitar Limites <br>
 * <ins>`Pastilha de Freio:`</ins> Estudo de distribuição de Carga, Estudo Tribológico, Análise de Vibrações, Ruídos e teste de Cases diversos quanto a materiais, Estudo Termodinamico, 
 * <ins>`Disco de Freio:`</ins> Estudo Tribológico, Cases de análise Térmico, Modelagem de Transcal, Estudo de Vibração, Alivios de Massa, Comportamento Estático e Dinamico, Distribuição de Carga
-* <ins>`Linha de Freio (Rígida e Flexível):`</ins>
+* <ins>`Linha de Freio (Rígida e Flexível):`</ins> Validar dilatação, análise com case de cargas, estudar materiais, transferência de calor, máximos suportados pela linha
 * <ins>`Cilindro Mestre:`</ins>
 * <ins>`Conectores:`</ins>
 * <ins>`Duto de Freio:` </ins>
