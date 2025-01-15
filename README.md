@@ -14,7 +14,7 @@ Este projeto envolve a validação estática e dinâmica do susbsistema de freio
 * <ins>`Pastilha de Freio:`</ins> Estudo de distribuição de Carga, Estudo Tribológico, Análise de Vibrações, Ruídos e teste de Cases diversos quanto a materiais, Estudo Termodinamico, 
 * <ins>`Disco de Freio:`</ins> Estudo Tribológico, Cases de análise Térmico, Modelagem de Transcal, Estudo de Vibração, Alivios de Massa, Comportamento Estático e Dinamico, Distribuição de Carga
 * <ins>`Linha de Freio (Rígida e Flexível):`</ins> Validar dilatação, análise com case de cargas, estudar materiais, transferência de calor, máximos suportados pela linha
-* <ins>`Cilindro Mestre:`</ins>
+* <ins>`Cilindro Mestre:`</ins> Vínculo com Bias, análise de parâmetros, estudo para fabricação de um modelo novo, pressão máxima de operação, modelagem da pressão no cm, modelagem do Curso e dos elementos internos
 * <ins>`Conectores:`</ins>
 * <ins>`Duto de Freio:` </ins>
 * <ins>`Bancada de Teste:` </ins>
