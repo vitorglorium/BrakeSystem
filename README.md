@@ -19,7 +19,7 @@ Este projeto envolve a validação estática e dinâmica do susbsistema de freio
 * <ins>`Duto de Freio:` </ins>Sensoriamento, Avaliação CFD, Thermal, Fadigue, Viabilidade de manufatura por processos aditivos ou fruto de laminação com prévio estudo de viabilidade, modelagem física e matemática do que ocorre no escoamento assim como nos fenomenos de transporte, Vincular com Pinças de Freio, Pastilhas e Disco.
 * <ins>`Validação do Coeficiente de Atrito:`</ins>Sensoriamento
 * <ins>`Validação do Torque:`</ins> Avaliar e Validar o comportamento do Torque durante a frenagem gerando curvas característcias e abordar de maneira matemática a sua modelagem com correções proveniente de fatores visualizados como de grande peso, tais como temperatura e variação do sistema tribológico
-* <ins>`Bancada de Teste:` </ins> Este tema será abordado com maior profunidade em trabalhos/artigos expostos, será preenchido conforme a sua ocorrência e atualização.
+* <ins>`Bancada de Teste:` </ins> Validação do Coeficiente de Atrito da pinça em função da temperatura, validação do torque, testes de estresse.
   
 ### Próximos Passos
 - [X] Delimitar o que será feito;
