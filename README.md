@@ -9,7 +9,7 @@ A ideia é, em cima de cada um dos tópicos, criar um documento com toda program
 
 ## Temas abordados 
 * <ins>`Pedal:` </ins> Curso, Ganho Mecânico, Distribuição de Carga, Analise de Trajetória, BIAS <br>
-* <ins>`Balance Bar:`</ins> Curso, Estudos de Material, Distribuição de Carga, Análise de Trajetória, inputs e outputs do/no sistema, variações e consequências, Sensoriamento<br>
+* <ins>`Balance Bar:`</ins> Curso, Estudos de Material, Distribuição de Carga, Análise de Trajetória, inputs e outputs do/no sistema, variações e consequências, Sensoriamento, Elementos Eletrônicos para ajuste, <br>
 * <ins>`Pinças de Freio:`</ins> Pressão, Dilatação, Distribuição de Carga, Análise de movimentação (No tipo Flutuante), Estudo dos elementos, Análise Termodinamica, Sensoriamento <br>
 * <ins>`Pistão da Pinça:`</ins> Distribuição de Carga, Soluções Termodinâmicas, Soluções para vedação, Estudo de Casos, Análise de movimentação e Cases de estudo, Delimitar Limites, Sensoriamento <br>
 * <ins>`Pastilha de Freio:`</ins> Estudo de distribuição de Carga, Estudo Tribológico, Análise de Vibrações, Ruídos e teste de Cases diversos quanto a materiais, Estudo Termodinamico, Sensoriamento.
