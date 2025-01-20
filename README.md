@@ -31,4 +31,6 @@ Cada tópico quando abordado será evidencidao sua evolução e também sua conc
 - [ ] Distribuir o conteúdo em trabalhos acadêmicos diversos;
 
 
-`Este projeto será executado a longo prazo, manterei o Read.me bem atualizado para que saibam o que ja foi concluído e o que está sendo feito.`
+`Este projeto será executado a longo prazo, manterei o Read.me bem atualizado para que saibam o que ja foi concluído e o que está sendo feito.` <br>
+<br>
+Caso tenha alguma dúvida peço que entrem em contato!!!
