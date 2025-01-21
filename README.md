@@ -6,7 +6,7 @@ A ideia é, em cima de cada um dos tópicos, criar um documento com toda program
 Cada tópico quando abordado será evidencidao sua evolução e também sua conclusão para facilitar, até o término, o entendimento do abaixo proposto.
 
 ### Progresso
-[█░░░░░░░░░░] 5% concluído
+[█░░░░░░░░░░] 7% concluído
 
 ## Temas abordados 
 * <ins>`Pedal:` </ins> Curso, Ganho Mecânico, Distribuição de Carga, Analise de Trajetória, BIAS, Regulamento SAE Brasi (conformidade) <br>
@@ -20,7 +20,7 @@ Cada tópico quando abordado será evidencidao sua evolução e também sua conc
 * <ins>`Conectores:`</ins> Avaliar influência nos fenomenos de transporte, Compreensão de Limites, Caracterização, Distribuição de carga e Sensoriamento
 * <ins>`Duto de Freio:` </ins>Sensoriamento, Avaliação CFD, Thermal, Fadigue, Viabilidade de manufatura por processos aditivos ou fruto de laminação com prévio estudo de viabilidade, modelagem física e matemática do que ocorre no escoamento assim como nos fenomenos de transporte, Vincular com Pinças de Freio, Pastilhas e Disco.
 * <ins>`Validação do Coeficiente de Atrito:`</ins>Sensoriamento, curva em função do teste de fadiga, elementos que influenciam, modelagem matemática deste elemento com seu comportamento em função da pressão superficial
-* <ins>`Validação do Torque:`</ins> Avaliar e Validar o comportamento do Torque durante a frenagem gerando curvas característcias e abordar de maneira matemática a sua modelagem com correções proveniente de fatores visualizados como de grande peso, tais como temperatura e variação do sistema tribológico
+* <ins>`Validação do Torque:`</ins> Avaliar e Validar o comportamento do Torque durante a frenagem gerando curvas característcias e abordar de maneira matemática a sua modelagem com correções proveniente de fatores visualizados como de grande peso, tais como temperatura e variação do sistema tribológico, influencia de elementos de autoionização
 * <ins>`Bancada de Teste:` </ins> Validação do Coeficiente de Atrito da pinça em função da temperatura, validação do torque, testes de estresse, validação de curso do pistão do cilindro mestre, estudo para reter informações sobre a expansão das pinças, influência de materiais no sistema tribológico e influência do meio em sistemas tribológicos, testar vedação e validar/modelar o comportamento com materiais distintos, alterar a influência da temperatura no sistema, forçar fade e reter informações relevantes, realizar um estudo com compósitos, estudo de liga e viabilidade, delimitar um meio para simular a transferência de massa.
   
 ### Próximos Passos
