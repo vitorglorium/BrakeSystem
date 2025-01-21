@@ -2,8 +2,9 @@
 
 ### Sobre o Projeto
 Este projeto envolve a validação estática e dinâmica do susbsistema de freios em protótipos do tipo Formula SAE. 🏎️💨 <br>
-A ideia é, em cima de cada um dos tópicos, criar um documento com toda programação que foi utilizada e compactar mais adiante como uma ferramenta para o subsistema.
-Cada tópico quando abordado será evidencidao sua evolução e também sua conclusão para facilitar, até o término, o entendimento do abaixo proposto.
+A ideia é, em cima de cada um dos tópicos, criar um documento com toda programação que foi utilizada e compactar mais adiante como uma ferramenta para o subsistema.<br>
+Cada tópico quando abordado será evidencidao sua evolução e também sua conclusão para facilitar, até o término, o entendimento do abaixo proposto.<br>
+Caso necessário, entrar em contato através do email: gloriumv@gmail.com
 
 ### Progresso
 [█░░░░░░░░░░] 7% concluído
