@@ -7,7 +7,7 @@ Cada tópico quando abordado será evidencidao sua evolução e também sua conc
 Caso necessário, entrar em contato através do email: gloriumv@gmail.com
 
 ### Progresso
-[█░░░░░░░░░░] 7% concluído
+[█░░░░░░░░░░] 8% concluído
 
 ## Temas abordados 
 * <ins>`Pedal:` </ins> Curso, Ganho Mecânico, Distribuição de Carga, Analise de Trajetória, BIAS, Regulamento SAE Brasi (conformidade), avaliar modelos e geometrias distintas e seu comportamento.<br>
@@ -28,6 +28,7 @@ Caso necessário, entrar em contato através do email: gloriumv@gmail.com
 - [X] Delimitar o que será feito;
 - [ ] Modelar Matemáticamente;
 - [ ] Implementar em Python as modelagens;
+- [ ] Criar ecosistema no simulink do matlab
 - [ ] Validar empiricamente e criar correções nos modelos;
 - [ ] Distribuir o conteúdo em trabalhos acadêmicos diversos;
 
