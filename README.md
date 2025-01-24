@@ -36,3 +36,6 @@ Caso necessário, entrar em contato através do email: gloriumv@gmail.com
 `Este projeto será executado a longo prazo, manterei o Read.me bem atualizado para que saibam o que ja foi concluído e o que está sendo feito.` <br>
 <br>
 Caso tenha alguma dúvida peço que entrem em contato!!!
+
+
+modelo em andamento para iniciar a upar finalmente!!!
