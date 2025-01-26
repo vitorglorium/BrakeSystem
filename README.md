@@ -7,7 +7,7 @@ Cada tópico quando abordado será evidencidao sua evolução e também sua conc
 Caso necessário, entrar em contato através do email: gloriumv@gmail.com
 
 ### Progresso
-[█░░░░░░░░░░] 9% concluído
+[█░░░░░░░░░░] 9,5% concluído
 
 ## Temas abordados 
 * <ins>`Pedal:` </ins> Curso, Ganho Mecânico, Distribuição de Carga, Analise de Trajetória, BIAS, Regulamento SAE Brasi (conformidade), avaliar modelos e geometrias distintas e seu comportamento.<br>
