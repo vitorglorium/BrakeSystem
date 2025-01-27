@@ -38,4 +38,4 @@ Caso necessário, entrar em contato através do email: gloriumv@gmail.com
 Caso tenha alguma dúvida peço que entrem em contato!!!
 
 
-modelo em andamento para iniciar a upar finalmente!!!
+OBS: O projeto esta sendo manipulado inicialmente pelo time de FC do UFPR Formula, estamos delimitando tudo que precisamos e então faremos a criação dos elementos citados.
