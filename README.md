@@ -26,7 +26,7 @@ Caso necessário, entrar em contato através do email: gloriumv@gmail.com
   
 ### Próximos Passos
 - [X] Delimitar o que será feito;
-- [ ] Modelar Matemáticamente;
+- [X] Modelar Matemáticamente;
 - [ ] Implementar em Python as modelagens;
 - [ ] Criar ecosistema no simulink do matlab
 - [ ] Validar empiricamente e criar correções nos modelos;
