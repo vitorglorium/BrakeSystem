@@ -24,7 +24,7 @@ Caso necessário, entrar em contato através do email: gloriumv@gmail.com
 * <ins>`Validação do Torque:`</ins> Avaliar e Validar o comportamento do Torque durante a frenagem gerando curvas característcias e abordar de maneira matemática a sua modelagem com correções proveniente de fatores visualizados como de grande peso, tais como temperatura e variação do sistema tribológico, influencia de elementos de autoionização
 * <ins>`Bancada de Teste:` </ins> Validação do Coeficiente de Atrito da pinça em função da temperatura, validação do torque, testes de estresse, validação de curso do pistão do cilindro mestre, estudo para reter informações sobre a expansão das pinças, influência de materiais no sistema tribológico e influência do meio em sistemas tribológicos, testar vedação e validar/modelar o comportamento com materiais distintos, alterar a influência da temperatura no sistema, forçar fade e reter informações relevantes, realizar um estudo com compósitos, estudo de liga e viabilidade, delimitar um meio para simular a transferência de massa.
   
-### Próximos Passos
+### Próximos Passos:
 - [X] Delimitar o que será feito;
 - [X] Modelar Matemáticamente;
 - [ ] Implementar em Python as modelagens;
