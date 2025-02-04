@@ -26,7 +26,7 @@ Cada tópico quando abordado será evidencidao sua evolução e também sua conc
   
 ### Próximos Passos:
 - [X] Delimitar o que será feito;
-- [X] Modelar Matemáticamente;
+- [] Modelar Matemáticamente;
 - [ ] Implementar em Python as modelagens;
 - [ ] Criar ecosistema no simulink do matlab
 - [ ] Validar empiricamente e criar correções nos modelos;
