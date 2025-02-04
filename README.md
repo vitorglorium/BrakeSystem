@@ -10,7 +10,7 @@ Cada tópico quando abordado será evidencidao sua evolução e também sua conc
 [████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 10% concluído.
 
 ## Temas abordados 
-* <ins>`Pedal:` </ins> Curso, Ganho Mecânico, Distribuição de Carga, Analise de Trajetória, BIAS, Regulamento SAE Brasi (conformidade), avaliar modelos e geometrias distintas e seu comportamento.<br>
+* <ins>`Pedal:` </ins> Curso, Ganho Mecânico, Distribuição de Carga, Analise de Trajetória, BIAS, Regulamento SAE Brasi (conformidade), avaliar modelos e geometrias distintas e seu comportamento.(Quase concluído)<br>
 * <ins>`Balance Bar:`</ins> Curso, Estudos de Material, Distribuição de Carga, Análise de Trajetória, inputs e outputs do/no sistema, variações e consequências, Sensoriamento, Elementos Eletrônicos para ajuste, Modelagem de Erros concatenados durante o processo de ajuste e traçar ideal para otimizações futuras, Modelagem do comportamento de materiais não metálicos.<br>
 * <ins>`Pinças de Freio:`</ins> Pressão, Dilatação, Distribuição de Carga, Análise de movimentação (No tipo Flutuante), Estudo dos elementos, Análise Termodinamica, Sensoriamento <br>
 * <ins>`Pistão da Pinça:`</ins> Distribuição de Carga, Soluções Termodinâmicas, Soluções para vedação, Estudo de Casos, Análise de movimentação e Cases de estudo, Delimitar Limites, Sensoriamento <br>
