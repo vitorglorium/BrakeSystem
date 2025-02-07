@@ -7,7 +7,7 @@ Cada tópico quando abordado será evidencidao sua evolução e também sua conc
 Ao finalizar cada módulo vou aos poucos compartilhando.
 
 ### Progresso
-[████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 12,1% concluído.
+[████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 12,2% concluído.
 
 ## Temas abordados 
 * <ins>`Pedal:` </ins> Curso, Ganho Mecânico, Distribuição de Carga, Analise de Trajetória, BIAS, Regulamento SAE Brasi (conformidade), avaliar modelos e geometrias distintas e seu comportamento.(Quase concluído)<br>
