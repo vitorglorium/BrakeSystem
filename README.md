@@ -3,8 +3,6 @@
 ### Sobre o Projeto
 Este projeto envolve a validação estática e dinâmica do susbsistema de freios em protótipos do tipo Formula SAE. 🏎️💨 <br>
 A ideia é, em cima de cada um dos tópicos, criar um documento com toda programação que foi utilizada e compactar mais adiante como uma ferramenta para o subsistema.<br>
-Cada tópico quando abordado será evidencidao sua evolução e também sua conclusão para facilitar, até o término, o entendimento do abaixo proposto.<br>
-Ao finalizar cada módulo vou aos poucos compartilhando.
 
 ### Progresso
 [███████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 24,20% concluído.
@@ -27,7 +25,7 @@ Ao finalizar cada módulo vou aos poucos compartilhando.
 ### Próximos Passos:
 - [X] Delimitar o que será feito;
 - [] Modelar Matemáticamente;
-- [ ] Implementar em Python as modelagens;
+- [X] Implementar em Python as modelagens;
 - [ ] Criar ecosistema no simulink do matlab
 - [ ] Validar empiricamente e criar correções nos modelos;
 - [ ] Distribuir o conteúdo em trabalhos acadêmicos diversos;
