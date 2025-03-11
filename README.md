@@ -24,9 +24,9 @@ A ideia é, em cima de cada um dos tópicos, criar um documento com toda program
   
 ### Próximos Passos:
 - [X] Delimitar o que será feito;
-- [] Modelar Matemáticamente;
+- [X] Modelar Matemáticamente;
 - [X] Implementar em Python as modelagens;
-- [ ] Criar ecosistema no simulink do matlab
+- [ ] Teste do Código Python
 - [ ] Validar empiricamente e criar correções nos modelos;
 - [ ] Distribuir o conteúdo em trabalhos acadêmicos diversos;
 
@@ -36,5 +36,5 @@ A ideia é, em cima de cada um dos tópicos, criar um documento com toda program
 Caso tenha alguma dúvida peço que entrem em contato!!!
 
 
-OBS: O projeto esta sendo manipulado inicialmente pelo time de FC do UFPR Formula, estamos delimitando tudo que precisamos e então faremos a criação dos elementos citados.<br>
-Outro ponto é que em algumas das coisas apontadas acima não teremos a validação empírica por limitações financeiras. Faremos o possível com o possível e possivelmente com parcerias apenas.
+OBS: O projeto esta sendo manipulado inicialmente pelo time de FC do UFPR Formula.<br>
+Outro ponto é que em algumas das coisas apontadas acima não teremos a validação empírica por limitações financeiras. Faremos o possível com o possível.
