@@ -5,7 +5,7 @@ Este projeto envolve a validação estática e dinâmica do susbsistema de freio
 A ideia é, em cima de cada um dos tópicos, criar um documento com toda programação que foi utilizada e compactar mais adiante como uma ferramenta para o subsistema.<br>
 
 ### Progresso
-[███████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 28,30% concluído.
+[███████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 28,40% concluído.
 
 ## Temas abordados 
 * <ins>`Pedal:` </ins> Curso, Ganho Mecânico, Distribuição de Carga, Analise de Trajetória, BIAS, Regulamento SAE Brasi (conformidade), avaliar modelos e geometrias distintas e seu comportamento.(Quase concluído)<br>
